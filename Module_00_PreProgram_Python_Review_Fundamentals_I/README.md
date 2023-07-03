@@ -9,11 +9,11 @@
 * File I/O
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+The assignment served as a great review of my past known skills.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+What I would say was challenging were the for loops and while loops
 
 ## Additional resources used 
-<To be filled>
+As additional resources I usead an online pyhton compiler (link: https://www.programiz.com/python-programming/online-compiler/) and chatGPT. 
 
