@@ -38,8 +38,12 @@ What I found the most challenging, interesting and exciting part of this assignm
 
 ## Additional resources used 
 chatGPT: I used it to ask questions of different definitions, like what is a Gini in the Decision Trees and if I had an error in my code so I could fix it. 
+
 I used an article titled A Gentle Introduction to Machine Learning Concepts by Robbie Allen to learn a read about the different types of learning methods. (link: https://medium.com/machine-learning-in-practice/a-gentle-introduction-to-machine-learning-concepts-cfe710910eb)
+
 Scikit learn to read about Ridge regression and classification. (link: https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
+
 upGrad blog to learn about the differneces and similarities between Decision Trees and Random Forest. (link: https://www.upgrad.com/blog/random-forest-vs-decision-tree/)
+
 ML Corner blog to learn about Linear Regressions and Decision Trees. (link: https://mlcorner.com/linear-regression-vs-decision-trees/)
 
