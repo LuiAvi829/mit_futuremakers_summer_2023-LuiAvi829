@@ -11,6 +11,7 @@
 ## Main takeaways from doing today's assignment
 
 The main takeaways form todays assignment were:
+
   Supervised learning: this is when a machine learns by giving it a sample data, and this data contains an example of athe input and output that it should learn. There are two types of supervised learning aproaches: 
       Classification: the goal of this aproach is to classify the data in different groups depnding on their features, like what was worked on with the iris data set.
       Regression: Like to classfication aproach it uses inputs and their outputs, but unlike classification the output is not discrete it is a sliding scale of possibilities, nut only 0 and 1. 
